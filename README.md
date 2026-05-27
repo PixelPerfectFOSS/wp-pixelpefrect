@@ -1,5 +1,5 @@
 # WP DLangGamedev
-WordPress theme used at https://gamedev.timurgafarov.ru. Based on [WPEX Blogger](https://wpexplorer-demos.com/blogger/) 1.2 by WPExplorer.
+WordPress theme used at https://blog.pixperfect.online. Based on [WPEX Blogger](https://wpexplorer-demos.com/blogger/) 1.2 by WPExplorer.
 
 ![thumb](readme-thumb.jpg)
 
